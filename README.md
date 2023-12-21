@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ControllerKid
-- Currently pursing B.Tech and trying to find my field of interest.
+- 👋 Hi, I’m Ashutosh Tiwari.
+- Currently pursing B.Tech.
 - Have some knowledge of HTML and CSS.
 - Proficient with core java concepts.
 

@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **core java concepts**
 
-<h3 align="left" href="https://www.linkedin.com/in/ashutosh-tiwari-84a09127b/>Connect with me</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving myself**
 
-- 🌱 I’m currently learning **python**
+- ✨ I'm familiar with python and it's concepts.
 
 - 💬 Ask me about **core java concepts**
 

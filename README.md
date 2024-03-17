@@ -14,7 +14,8 @@
     </a>
 </p>
 
-![Github readme](https://github.com/AshutoshTiwari0/ControllerKid/assets/141515182/de89c4c4-d130-4483-a867-bc3ac178ada2)
+![github readme 2](https://github.com/AshutoshTiwari0/AshutoshTiwari0/assets/141515182/3bbd2224-dfc7-4d67-8a2d-588c5eb7b24b)
+
 
 
 <h3 align="left">Languages and Tools:</h3>

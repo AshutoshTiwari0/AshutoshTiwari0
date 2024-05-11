@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Tiwari</h1>
 <h3 align="center">A passionate student</h3>
 
-- 🔭 I’m currently working on **improving myself**
+- 🔭 I’m currently learning **Machine Learning and Data Science**
 
-- ✨ I'm familiar with python and it's concepts.
-
-- 💬 Ask me about **core java concepts**
+- 💬 Ask me about **core java and python concepts**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">

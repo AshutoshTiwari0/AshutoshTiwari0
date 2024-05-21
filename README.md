@@ -12,7 +12,10 @@
     </a>
 </p>
 
-![github readme 2](https://github.com/AshutoshTiwari0/AshutoshTiwari0/assets/141515182/3bbd2224-dfc7-4d67-8a2d-588c5eb7b24b)
+![giphy](https://github.com/AshutoshTiwari0/AshutoshTiwari0/assets/141515182/10e3cc4f-258f-4d03-b3ba-e861f38925bd)
+
+
+
 
 
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Tiwari</h1>
 <h3 align="center">A passionate student</h3>
 
-- 🔭 I’m currently learning **Machine Learning and Data Science**
+- 🔭 I’m currently learning **Generative AI.**
 
-- 💬 Ask me about **core java and python concepts**
+- 💬 Ask me about **Machine Learning, Natural Language Processing and Deep Learning.**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -12,7 +12,7 @@
     </a>
 </p>
 
-![giphy](https://github.com/AshutoshTiwari0/AshutoshTiwari0/assets/141515182/10e3cc4f-258f-4d03-b3ba-e861f38925bd)
+![agif2opt](https://github.com/user-attachments/assets/2e13b0e1-dcfb-4f44-a908-bd3fd76996ad)
 
 
 
@@ -24,4 +24,3 @@
 
 [![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshutoshTiwari0)](https://github.com/AshutoshTiwari0/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AshutoshTiwari0)](https://github.com/AshutoshTiwari0/github-readme-stats)

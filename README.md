@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Tiwari</h1>
-<h3 align="center">A passionate student</h3>
+<h3 align="center">GET @coforge</h3>
 
-- 🔭 I’m currently learning **Generative AI.**
+- 🔭 I’m currently learning **Javascript.**
 
 - 💬 Ask me about **Machine Learning, Natural Language Processing and Deep Learning.**
 

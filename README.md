@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Tiwari</h1>
-<h3 align="center">GET @coforge</h3>
+<h3 align="center">Trainee @coforge</h3>
 
 - 🔭 I’m currently learning **Javascript.**
 
